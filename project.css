@@ -1,0 +1,265 @@
+html,
+body {
+    height: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+.merge-bottom-input {
+  width: 67px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.merge-top-left-button {
+  border-top-left-radius: 0;
+}
+
+.merge-top-right-button {
+  border-top-right-radius: 0;
+}
+
+.container-1 
+{
+    height: 100%;
+    width:100%;
+    background-image: url("../img/it1.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;    
+}
+
+.container-2 {
+    max-height: 800px; 
+    height: 800px;
+    max-width: 1350
+    width: auto;    
+    position: relative;
+    background-image: url("http://www.amazingwallpaperz.com/wp-content/uploads/Mustang-Car-Background-HD-Wallpapers.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1350px 800px;
+}
+
+.container-3 {
+    max-height: 800px; 
+    height: 800px;
+    max-width: 1350
+    width: auto;    
+    position: relative;
+    background-image: url("http://www.adweek.com/files/2016_Apr/Screen%20Shot%202016-04-28%20at%203.41.04%20PM.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1350px 800px;
+}
+
+.white-box
+{
+	display:inline-block; 
+	padding:2px; 
+	background: rgba(255, 255, 255, .8);
+	border: 1px solid #fff;	
+	position: relative;
+  	left: 0;
+
+}
+.tempbg {   
+    color: black;
+    max-height: 800px; 
+    height: 800px;
+    max-width: 1350;
+    width: auto;
+    padding-top: 5;
+    padding-left: 5;
+    padding-right: 5;
+    padding-bottom: 5;
+    background-image: url("http://localhost/phpcodes/Assignment02/FoodTrends.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1350px 800px;
+
+}
+
+.container-box
+{
+	display:inline-block; 
+	padding:10px; 
+	background: rgba(255, 255, 255, .8);
+	border: 1px solid #fff;	
+	position: relative;
+  	top: 55%;
+  	left: 0;
+
+}
+
+.modal-content
+{
+	background: rgba(255, 255, 255, .7);	
+}
+
+
+.mid {   
+    height: 50px;
+    width: 1350px;
+
+}
+
+.midwhite {   
+    color: white;
+    background-color: aliceblue;
+    max-height: 800px;   
+    width: 1350px;
+    position: relative;
+
+}
+
+.mid-bg {   
+    color: white;
+    max-height: 800px; 
+    height: 800px;
+    max-width: 1350
+    width: auto;
+    padding-top: 5;
+    padding-left: 5;
+    padding-right: 5;
+    padding-bottom: 5;
+    background-image: url("http://localhost/phpcodes/Assignment02/FoodTrends.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1350px 800px;
+
+}
+
+.reg-bg {   
+    max-height: 500px; 
+    height: 500px;
+    max-width: 1365
+    width: auto;
+    padding-top: 5;
+    padding-left: 5;
+    padding-right: 5;
+    padding-bottom: 5;
+    background-image: url("http://www.yourlittleblackbxook.me/wp-content/uploads/2017/02/foodtrends_2017_foodora.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1365px 500px;
+
+}
+
+.bkgrnd {
+    background-image: url("https://ae01.alicdn.com/kf/HTB1VSd1PXXXXXXfXVXXq6xXFXXX2/Allenjoy-10-20-voeten-300-600-cm-Blanco-fotografie-achtergronden-fotografie-achtergrond-Lila-Wolken.jpg_640x640.jpg");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1365px 500px;
+    max-height: 800px; 
+    height: 800px;
+
+}
+
+.container-bg{
+    width:100%;
+    height: auto;
+    background-image: url("http://astrokrsna.com/wp-content/uploads/2016/09/cook-366875_960_720.jpg");
+    background-blend-mode: color;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 100% auto;
+    position: relative;
+    margin-top: 0px; 
+
+}
+
+.container-x {
+    position: relative;
+
+}
+
+.container-z {
+    max-height: 800px; 
+    height: 800px;
+    max-width: 1350
+    width: auto;    
+    position: relative;
+    background-image: url("http://www.adweek.com/files/2016_Apr/Screen%20Shot%202016-04-28%20at%203.41.04%20PM.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1350px 800px;
+}
+
+.container-y {
+    max-height: 800px; 
+    height: 800px;
+    max-width: 1350
+    width: auto;    
+    position: relative;
+    background-image: url("http://www.adweek.com/files/2016_Apr/Screen%20Shot%202016-04-28%20at%203.41.04%20PM.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: 1350px 800px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 50px;
+}
+
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 50px;
+}
+
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.focus {
+	border: 2px solid #AA88FF;
+	background-color: #FFEEAA;
+}
+
+/* Remove the navbar's default rounded borders and increase the bottom margin */ 
+.navbars {
+    
+    margin-bottom: 0px;
+    border-radius: 0;
+}
+
+.indented {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 25;
+    padding-left: 25px;
+    margin-right: 0;
+}
+    
+/* Add a gray background color and some padding to the footer */
+header {
+    background-color: #f2f2f2;
+    padding: 5px;
+}
+      
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 5px;
+}
+
